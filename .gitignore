@@ -7,7 +7,7 @@
 *.rsuser
 *.suo
 *.user
-*.congif
+*.config
 *.userosscache
 *.sln.docstates
 
